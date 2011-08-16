@@ -4,7 +4,8 @@ import java.util.HashMap;
 
 /**
  * 
- * @author Martin Prout after
+ * @author Martin Prout after original by Adam Parrish
+ * decontextualize.com
  */
 
 public class ContextFree {

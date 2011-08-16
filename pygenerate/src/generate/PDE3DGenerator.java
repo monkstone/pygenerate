@@ -1,5 +1,11 @@
 package generate;
 
+/**
+ * Extends PDE generator (uses jdk 7.0 features)
+ * @author Martin Prout after original by Adam Parrish
+ * decontextualize.com
+ */
+
 public class PDE3DGenerator extends ContextFree {
 
     public static int MAX_RECURSION = 200;

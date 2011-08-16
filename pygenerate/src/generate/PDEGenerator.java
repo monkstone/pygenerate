@@ -1,5 +1,10 @@
 package generate;
 
+/**
+ * (uses jdk 7.0 features)
+ * @author Martin Prout after original by Adam Parrish
+ * decontextualize.com
+ */
 
 public class PDEGenerator extends ContextFree {
     
