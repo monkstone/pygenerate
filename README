@@ -1,0 +1,7 @@
+Here are some experiments I've done based on the PDEGenerator by Adam Parrish of decontextualize.com. 
+There are several exaperiments going on here:-
+This is my first NetBeans 7.0.1 git project,
+I'm using the coin features of jdk 7.0
+The main feature that I have changed / added is to add the possiblity of weighted rules. By default 
+each rule is given a weighting of 1.0f.
+Another thing I've added is the ability to limit recursion.
