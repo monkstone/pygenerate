@@ -4,7 +4,7 @@ http://www.decontextualize.com/teaching/a2z/context-free-as-in-speech/
 Here are some experiments I've done based on the PDEGenerator by Adam Parrish of decontextualize.com. 
 There are several experiments going on here:-
 This is my first NetBeans 7.0.1 git project,
-I'm using the coin features of jdk 7.0
-The main feature that I have changed / added is to add the possiblity of weighted rules. By default 
-each rule is given a weighting of 1.0f.
-Another thing I've added is the ability to limit recursion.
+I'm using the coin features of jdk 7.0, so I've converted a chain of if else (on String) to a switch etc.
+The main feature that I have changed / added is to add the possiblity of weighted rules. 
+By default each rule/option is given a weighting of 1.0f.
+The other thing I've added is the ability to limit recursion. I also produce pyprocessing and 3D pde variants.
